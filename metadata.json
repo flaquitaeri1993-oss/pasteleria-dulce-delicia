@@ -1,0 +1,6 @@
+{
+  "name": "Pastelería Dulce Delicia",
+  "description": "Pastelería artesanal con estilo rústico moderno. Catálogo de postres, pedidos personalizados, vitrina del día y asistente virtual interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
